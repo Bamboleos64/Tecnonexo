@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webpage-67fed0.netlify.app/sitemap.xml
