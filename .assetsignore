@@ -1,3 +1,7 @@
+**/.git
+**/.git/**
+**/.wrangler
+**/.wrangler/**
 .git
 .git/**
 .wrangler
