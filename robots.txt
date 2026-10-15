@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://webpage-67fed0.netlify.app/sitemap.xml
+Disallow: /.git/
+Disallow: /.wrangler/
+Sitemap: https://tecnonexo.bryandiazserrano38.workers.dev/sitemap.xml
